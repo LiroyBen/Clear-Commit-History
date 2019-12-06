@@ -2,7 +2,7 @@
 git clone git@github.com:[Your_Account]/[Your_Repo].git
 
 # Go in your repo folder
-cd [Your_Repo].git
+cd [Your_Repo]
 
 # Remove git files with the commits history
 rm -rf .git
